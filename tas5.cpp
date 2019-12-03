@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 87e7b024ba4146dceaa6390ff14fb7d082d0cfc1
 #include <iostream>
 
 using namespace std;
